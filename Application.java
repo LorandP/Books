@@ -13,7 +13,7 @@ public class Application {
      */
     private void BookTest() {
         Scanner input = new Scanner(System.in);
-        Books[] books = new Books[2];
+        Books[] books = new Books[30];
         String temp = "";
         int isbn = 0;
 
